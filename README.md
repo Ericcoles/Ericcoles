@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Javascript, CSS, & HTML :)
 <!--
 **Ericcoles/Ericcoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
