@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Javascript, CSS, & HTML :)
+- Try out this speed game I made with Javascript, sound on ;): https://pikagame.netlify.app/
 <!--
 **Ericcoles/Ericcoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
