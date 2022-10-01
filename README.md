@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Symfony, PHP, REACT, Javascript, CSS, & HTML :)
-- Try out this speed game I made with Javascript, sound on ;): https://pikagame.netlify.app/
+- 🌱 I’m currently learning React, AWS, CI/CD tools, & Drupal
+- 📜 Current Full Stack Web Development student at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/" target="_blank">Helsinki Business College</a>  
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/eric-coles-msc-0b185114a/" target="_blank">LinkedIn</a>         
+- ⚡ Try out this speed game I made with Javascript, sound on ;): https://pikagame.netlify.app/
 <!--
 **Ericcoles/Ericcoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
