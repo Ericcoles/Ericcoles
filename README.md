@@ -2,7 +2,9 @@
 - 🌱 I’m currently learning React, AWS, CI/CD tools, & Drupal
 - 📜 Current Full Stack Web Development student at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/" target="HBC">Helsinki Business College</a>  
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/eric-coles-msc-0b185114a/" target="LinkedIn">LinkedIn</a>         
-- ⚡ Try out this speed game I made with Javascript and hosted on Netlify, sound on 😉: <a href="https://pikagame.netlify.app/" target="speedgame">Speed Game</a>  
+- ⚡ Try out this speed game I made with Javascript and hosted on Netlify, sound on 😉: <a href="https://pikagame.netlify.app/" target="speedgame">Speed Game</a> 
+
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericcoles)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ericcoles/Ericcoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
