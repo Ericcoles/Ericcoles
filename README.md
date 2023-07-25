@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React, AWS, CI/CD tools, & Drupal
-- 📜 Current Full Stack Web Development student at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/" target="HBC">Helsinki Business College</a>  
+- 🌱 I’m currently working as a junior software developer @KPMG
+- 📜 Graduated June 2023 from Full Stack Web Development program at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/" target="HBC">Helsinki Business College</a>  
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/eric-coles-msc-0b185114a/" target="LinkedIn">LinkedIn</a>         
 - ⚡ Try out this speed game I made with Javascript and hosted on Netlify, sound on 😉: <a href="https://pikagame.netlify.app/" target="speedgame">Speed Game</a> 
 
